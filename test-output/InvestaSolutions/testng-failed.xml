@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [InvestaSolutions]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="WebTableTest(failed)">
+    <classes>
+      <class name="InterviewQuestionAndAnswer.WebTableTests">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+          <include name="clickOnCheckBoxBasisOnCountrySearch"/>
+          <include name="initProperties"/>
+          <include name="generateReport"/>
+        </methods>
+      </class> <!-- InterviewQuestionAndAnswer.WebTableTests -->
+    </classes>
+  </test> <!-- WebTableTest(failed) -->
+</suite> <!-- Failed suite [InvestaSolutions] -->

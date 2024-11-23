@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-11T20:43:50 IST" name="Amazon" finished-at="2024-11-11T20:43:56 IST" duration-ms="5320">
+    <groups>
+    </groups>
+    <test started-at="2024-11-11T20:43:50 IST" name="AmazonTest" finished-at="2024-11-11T20:43:56 IST" duration-ms="5320">
+      <class name="InterviewQuestionAndAnswer.AmazonPriceSelection">
+        <test-method is-config="true" signature="beforeSuite(java.lang.String)[pri:0, instance:InterviewQuestionAndAnswer.AmazonPriceSelection@660e9100]" started-at="2024-11-11T20:43:44 IST" name="beforeSuite" finished-at="2024-11-11T20:43:50 IST" duration-ms="6214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="initProperties()[pri:0, instance:InterviewQuestionAndAnswer.AmazonPriceSelection@660e9100]" started-at="2024-11-11T20:43:50 IST" name="initProperties" finished-at="2024-11-11T20:43:50 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initProperties -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:InterviewQuestionAndAnswer.AmazonPriceSelection@660e9100]" started-at="2024-11-11T20:43:50 IST" name="setUp" finished-at="2024-11-11T20:43:52 IST" duration-ms="2084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnCheckBoxBasisOnCountrySearch()[pri:0, instance:InterviewQuestionAndAnswer.AmazonPriceSelection@660e9100]" started-at="2024-11-11T20:43:52 IST" name="clickOnCheckBoxBasisOnCountrySearch" finished-at="2024-11-11T20:43:55 IST" duration-ms="3067" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "InterviewQuestionAndAnswer.AmazonPriceSelection.wait" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "InterviewQuestionAndAnswer.AmazonPriceSelection.wait" is null
+at InterviewQuestionAndAnswer.AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch(AmazonPriceSelection.java:39)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCheckBoxBasisOnCountrySearch -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:InterviewQuestionAndAnswer.AmazonPriceSelection@660e9100]" started-at="2024-11-11T20:43:56 IST" name="afterMethod" finished-at="2024-11-11T20:43:56 IST" duration-ms="109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnCheckBoxBasisOnCountrySearch status=FAILURE method=AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch()[pri:0, instance:InterviewQuestionAndAnswer.AmazonPriceSelection@660e9100] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:InterviewQuestionAndAnswer.AmazonPriceSelection@660e9100]" started-at="2024-11-11T20:43:56 IST" name="generateReport" finished-at="2024-11-11T20:44:01 IST" duration-ms="5399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- InterviewQuestionAndAnswer.AmazonPriceSelection -->
+    </test> <!-- AmazonTest -->
+  </suite> <!-- Amazon -->
+</testng-results>

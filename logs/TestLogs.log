@@ -1,0 +1,1715 @@
+2024-09-26 22:39:23 INFO  PropertiesManager:47 - Loaded environment properties from: Environment/Config_UAT.properties
+2024-09-26 22:39:23 INFO  PropertiesManager:68 - Loaded properties from: Config.properties
+2024-09-26 22:39:23 INFO  PropertiesManager:68 - Loaded properties from: Constants.properties
+2024-09-26 22:39:23 INFO  PropertiesManager:68 - Loaded properties from: LogMessages.properties
+2024-09-26 22:39:23 INFO  PropertiesManager:68 - Loaded properties from: URLs.properties
+2024-09-26 22:39:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\testng.xml
+
+2024-09-26 22:39:23 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-09-26 22:39:23 INFO  Logger:73 - Initializing WebDriver for browser: chrome
+2024-09-26 22:39:25 INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.70 (resolved driver for Chrome 129)
+2024-09-26 22:39:25 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/win64/chromedriver-win64.zip
+2024-09-26 22:39:27 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-09-26 22:39:27 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\129.0.6668.70\chromedriver.exe
+2024-09-26 22:39:29 INFO  Logger:101 - Loaded HOST_NAME: smtp.gmail.com
+2024-09-26 22:39:29 INFO  Logger:102 - Loaded PORT_ID: 587
+2024-09-26 22:39:29 INFO  Logger:103 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-26 22:39:29 INFO  Logger:104 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-09-26 22:39:29 INFO  Logger:105 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-26 22:39:29 INFO  Logger:106 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-26 22:39:29 INFO  Logger:107 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-09-26 22:39:32 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-09-26 22:39:34 INFO  Logger:63 - Clicked on Checbox
+2024-09-26 22:39:34 INFO  Logger:64 - Actual Country name: Australiaverified with: Australia
+2024-09-26 22:39:34 INFO  ExtentReportManager:116 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-09-26 22:39:34 INFO  ExtentReportManager:116 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-09-26 22:39:34 INFO  ExtentReportManager:82 - Test [Test Ended] has been completed
+2024-09-26 22:39:34 INFO  Logger:138 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-09-26 22:39:34 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-09-26 22:39:34 INFO  ExtentReportManager:64 - Set system info: Browser Version = 129.0.6668.70
+2024-09-26 22:39:34 INFO  ExtentReportManager:145 - Extent reports flushed.
+2024-09-26 22:39:34 INFO  Logger:158 - Reports flushed successfully.
+2024-09-26 22:39:34 INFO  Logger:159 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-09-26 22:39:34 INFO  Logger:174 - WebDriver quit successfully.
+2024-09-26 23:04:41 INFO  PropertiesManager:47 - Loaded environment properties from: Environment/Config_UAT.properties
+2024-09-26 23:04:41 INFO  PropertiesManager:68 - Loaded properties from: Config.properties
+2024-09-26 23:04:41 INFO  PropertiesManager:68 - Loaded properties from: Constants.properties
+2024-09-26 23:04:41 INFO  PropertiesManager:68 - Loaded properties from: LogMessages.properties
+2024-09-26 23:04:41 INFO  PropertiesManager:68 - Loaded properties from: URLs.properties
+2024-09-26 23:04:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\testng.xml
+
+2024-09-26 23:04:41 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-09-26 23:04:41 INFO  Logger:73 - Initializing WebDriver for browser: chrome
+2024-09-26 23:04:42 INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.70 (resolved driver for Chrome 129)
+2024-09-26 23:04:42 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/win64/chromedriver-win64.zip
+2024-09-26 23:04:44 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-09-26 23:04:44 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\129.0.6668.70\chromedriver.exe
+2024-09-26 23:04:46 INFO  Logger:101 - Loaded HOST_NAME: smtp.gmail.com
+2024-09-26 23:04:46 INFO  Logger:102 - Loaded PORT_ID: 587
+2024-09-26 23:04:46 INFO  Logger:103 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-26 23:04:46 INFO  Logger:104 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-09-26 23:04:46 INFO  Logger:105 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-26 23:04:46 INFO  Logger:106 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-26 23:04:46 INFO  Logger:107 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-09-26 23:04:51 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-09-26 23:04:52 INFO  Logger:67 - Checkbox clicked for country: Australia
+2024-09-26 23:04:52 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-09-26 23:04:52 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-09-26 23:04:52 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-09-26 23:04:52 INFO  Logger:138 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-09-26 23:04:52 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-09-26 23:04:52 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-09-26 23:04:52 INFO  ExtentReportManager:64 - Set system info: Browser Version = 129.0.6668.70
+2024-09-26 23:04:52 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-09-26 23:04:52 INFO  Logger:158 - Reports flushed successfully.
+2024-09-26 23:04:52 INFO  Logger:159 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-09-26 23:04:53 INFO  Logger:174 - WebDriver quit successfully.
+2024-09-27 22:08:57 INFO  PropertiesManager:47 - Loaded environment properties from: Environment/Config_UAT.properties
+2024-09-27 22:08:57 INFO  PropertiesManager:68 - Loaded properties from: Config.properties
+2024-09-27 22:08:57 INFO  PropertiesManager:68 - Loaded properties from: Constants.properties
+2024-09-27 22:08:57 INFO  PropertiesManager:68 - Loaded properties from: LogMessages.properties
+2024-09-27 22:08:57 INFO  PropertiesManager:68 - Loaded properties from: URLs.properties
+2024-09-27 22:08:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\testng.xml
+
+2024-09-27 22:08:57 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-09-27 22:08:57 INFO  Logger:73 - Initializing WebDriver for browser: chrome
+2024-09-27 22:08:59 INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.70 (resolved driver for Chrome 129)
+2024-09-27 22:08:59 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/win64/chromedriver-win64.zip
+2024-09-27 22:09:01 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-09-27 22:09:01 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\129.0.6668.70\chromedriver.exe
+2024-09-27 22:09:02 INFO  Logger:101 - Loaded HOST_NAME: smtp.gmail.com
+2024-09-27 22:09:02 INFO  Logger:102 - Loaded PORT_ID: 587
+2024-09-27 22:09:02 INFO  Logger:103 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-27 22:09:02 INFO  Logger:104 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-09-27 22:09:02 INFO  Logger:105 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-27 22:09:02 INFO  Logger:106 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-27 22:09:02 INFO  Logger:107 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-09-27 22:09:06 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-09-27 22:09:07 INFO  Logger:67 - Checkbox clicked for country: Australia
+2024-09-27 22:09:07 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-09-27 22:09:07 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-09-27 22:09:07 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-09-27 22:09:07 INFO  Logger:138 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-09-27 22:09:07 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-09-27 22:09:07 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-09-27 22:09:07 INFO  ExtentReportManager:64 - Set system info: Browser Version = 129.0.6668.70
+2024-09-27 22:09:07 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-09-27 22:09:07 INFO  Logger:158 - Reports flushed successfully.
+2024-09-27 22:09:07 INFO  Logger:159 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-09-27 22:09:07 INFO  Logger:174 - WebDriver quit successfully.
+2024-09-28 22:37:32 INFO  PropertiesManager:47 - Loaded environment properties from: Environment/Config_UAT.properties
+2024-09-28 22:37:32 INFO  PropertiesManager:68 - Loaded properties from: Config.properties
+2024-09-28 22:37:32 INFO  PropertiesManager:68 - Loaded properties from: Constants.properties
+2024-09-28 22:37:32 INFO  PropertiesManager:68 - Loaded properties from: LogMessages.properties
+2024-09-28 22:37:32 INFO  PropertiesManager:68 - Loaded properties from: URLs.properties
+2024-09-28 22:37:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\testng.xml
+
+2024-09-28 22:37:32 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-09-28 22:37:32 INFO  Logger:73 - Initializing WebDriver for browser: chrome
+2024-09-28 22:37:34 INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.70 (resolved driver for Chrome 129)
+2024-09-28 22:37:34 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/win64/chromedriver-win64.zip
+2024-09-28 22:37:36 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-09-28 22:37:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\129.0.6668.70\chromedriver.exe
+2024-09-28 22:37:38 INFO  Logger:101 - Loaded HOST_NAME: smtp.gmail.com
+2024-09-28 22:37:38 INFO  Logger:102 - Loaded PORT_ID: 587
+2024-09-28 22:37:38 INFO  Logger:103 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-28 22:37:38 INFO  Logger:104 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-09-28 22:37:38 INFO  Logger:105 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-28 22:37:38 INFO  Logger:106 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-09-28 22:37:38 INFO  Logger:107 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-09-28 22:37:41 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-09-28 22:37:42 INFO  Logger:67 - Checkbox clicked for country: Australia
+2024-09-28 22:37:42 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-09-28 22:37:42 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-09-28 22:37:42 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-09-28 22:37:42 INFO  Logger:138 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-09-28 22:37:42 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-09-28 22:37:42 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-09-28 22:37:42 INFO  ExtentReportManager:64 - Set system info: Browser Version = 129.0.6668.70
+2024-09-28 22:37:42 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-09-28 22:37:42 INFO  Logger:158 - Reports flushed successfully.
+2024-09-28 22:37:42 INFO  Logger:159 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-09-28 22:37:42 INFO  Logger:174 - WebDriver quit successfully.
+2024-10-05 14:04:33 INFO  PropertiesManager:47 - Loaded environment properties from: Environment/Config_UAT.properties
+2024-10-05 14:04:33 INFO  PropertiesManager:68 - Loaded properties from: Config.properties
+2024-10-05 14:04:33 INFO  PropertiesManager:68 - Loaded properties from: Constants.properties
+2024-10-05 14:04:33 INFO  PropertiesManager:68 - Loaded properties from: LogMessages.properties
+2024-10-05 14:04:33 INFO  PropertiesManager:68 - Loaded properties from: URLs.properties
+2024-10-05 14:04:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\testng.xml
+
+2024-10-05 14:04:34 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-10-05 14:04:34 INFO  Logger:73 - Initializing WebDriver for browser: chrome
+2024-10-05 14:04:38 INFO  WebDriverManager:1220 - Using chromedriver 129.0.6668.89 (resolved driver for Chrome 129)
+2024-10-05 14:04:38 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.89/win64/chromedriver-win64.zip
+2024-10-05 14:05:01 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-10-05 14:05:01 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\129.0.6668.89\chromedriver.exe
+2024-10-05 14:05:03 INFO  Logger:101 - Loaded HOST_NAME: smtp.gmail.com
+2024-10-05 14:05:03 INFO  Logger:102 - Loaded PORT_ID: 587
+2024-10-05 14:05:03 INFO  Logger:103 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-10-05 14:05:03 INFO  Logger:104 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-10-05 14:05:03 INFO  Logger:105 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-10-05 14:05:03 INFO  Logger:106 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-10-05 14:05:03 INFO  Logger:107 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-10-05 14:05:09 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-10-05 14:05:11 INFO  Logger:67 - Checkbox clicked for country: Australia
+2024-10-05 14:05:11 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-10-05 14:05:11 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-10-05 14:05:11 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-10-05 14:05:11 INFO  Logger:138 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-10-05 14:05:11 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-10-05 14:05:11 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-10-05 14:05:11 INFO  ExtentReportManager:64 - Set system info: Browser Version = 129.0.6668.90
+2024-10-05 14:05:11 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-10-05 14:05:11 INFO  Logger:158 - Reports flushed successfully.
+2024-10-05 14:05:11 INFO  Logger:159 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-10-05 14:05:11 INFO  Logger:174 - WebDriver quit successfully.
+2024-10-29 21:55:22 WARN  PropertiesManager:93 - Properties not found for file: config
+2024-11-02 11:59:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\testng.xml
+
+2024-11-02 11:59:17 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-02 11:59:17 INFO  Logger:78 - Initializing WebDriver for browser: chrome
+2024-11-02 11:59:17 ERROR Logger:81 - Base URL not defined for environment: UAT
+2024-11-02 11:59:17 ERROR Logger:93 - Error initializing WebDriver: 
+java.lang.RuntimeException: Base URL not found for environment UAT
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:82) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-02 11:59:17 INFO  Logger:114 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-02 11:59:17 INFO  Logger:115 - Loaded PORT_ID: 587
+2024-11-02 11:59:17 INFO  Logger:116 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-02 11:59:17 INFO  Logger:117 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-02 11:59:17 INFO  Logger:118 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-02 11:59:17 INFO  Logger:119 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-02 11:59:17 INFO  Logger:120 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-02 11:59:17 INFO  Logger:151 - Test null passed.
+2024-11-02 11:59:17 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-02 11:59:17 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-02 11:59:17 INFO  Logger:171 - Reports flushed successfully.
+2024-11-02 11:59:17 INFO  Logger:172 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-03 20:13:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 20:13:14 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 20:13:14 WARN  PropertiesManager:78 - Property 'UAT.EXAMPLE.COM_URL' not found in URLs.properties
+2024-11-03 20:13:14 INFO  Logger:77 - Initializing WebDriver for browser: chrome
+2024-11-03 20:13:14 ERROR Logger:80 - Base URL not defined for environment: uat.example.com
+2024-11-03 20:13:14 ERROR Logger:92 - Error initializing WebDriver: 
+java.lang.RuntimeException: Base URL not found for environment uat.example.com
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-03 20:13:14 INFO  Logger:113 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-03 20:13:14 INFO  Logger:114 - Loaded PORT_ID: 587
+2024-11-03 20:13:14 INFO  Logger:115 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 20:13:14 INFO  Logger:116 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-03 20:13:14 INFO  Logger:117 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 20:13:14 INFO  Logger:118 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 20:13:14 INFO  Logger:119 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-03 20:13:14 INFO  Logger:150 - Test null passed.
+2024-11-03 20:13:14 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-03 20:13:15 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-03 20:13:15 INFO  Logger:170 - Reports flushed successfully.
+2024-11-03 20:13:15 INFO  Logger:171 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-03 20:14:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 20:14:51 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 20:15:01 WARN  PropertiesManager:78 - Property 'UAT.EXAMPLE.COM_URL' not found in URLs.properties
+2024-11-03 20:15:27 INFO  Logger:77 - Initializing WebDriver for browser: chrome
+2024-11-03 20:15:31 ERROR Logger:80 - Base URL not defined for environment: uat.example.com
+2024-11-03 20:37:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 20:37:43 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 20:37:43 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 20:38:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 20:38:40 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 20:38:40 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 20:38:53 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-03 20:38:54 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.91/win64/chromedriver-win64.zip
+2024-11-03 20:39:06 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-03 20:39:06 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-03 21:07:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 21:07:21 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 21:07:21 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 21:07:36 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-03 21:07:36 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.91/win64/chromedriver-win64.zip
+2024-11-03 21:07:48 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-03 21:07:48 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-03 21:08:04 ERROR Logger:87 - Error initializing WebDriver: 
+org.openqa.selenium.InvalidArgumentException: invalid argument
+  (Session info: chrome=130.0.6723.92)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b4a19637e8e226cf40e506f3e01e1d78, get {url=}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\thrah\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55482}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55482/devtoo..., se:cdpVersion: 130.0.6723.92, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b4a19637e8e226cf40e506f3e01e1d78
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:309) ~[selenium-remote-driver-4.15.0.jar:?]
+	at com.investaSolutions.base.SingletonWebDriver.getDriver(SingletonWebDriver.java:30) ~[classes/:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-03 21:08:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 21:08:39 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 21:08:39 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 21:08:40 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-03 21:08:40 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.91/win64/chromedriver-win64.zip
+2024-11-03 21:08:41 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-03 21:08:41 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-03 21:08:43 ERROR Logger:87 - Error initializing WebDriver: 
+org.openqa.selenium.InvalidArgumentException: invalid argument
+  (Session info: chrome=130.0.6723.92)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b5f4b985d44b1ac0d2b1d2f08f0b0f25, get {url=}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\thrah\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55509}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55509/devtoo..., se:cdpVersion: 130.0.6723.92, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b5f4b985d44b1ac0d2b1d2f08f0b0f25
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:309) ~[selenium-remote-driver-4.15.0.jar:?]
+	at com.investaSolutions.base.SingletonWebDriver.getDriver(SingletonWebDriver.java:30) ~[classes/:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-03 21:08:43 INFO  Logger:119 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-03 21:08:43 INFO  Logger:120 - Loaded PORT_ID: 587
+2024-11-03 21:08:43 INFO  Logger:121 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 21:08:43 INFO  Logger:122 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-03 21:08:43 INFO  Logger:123 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 21:08:43 INFO  Logger:124 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 21:08:43 INFO  Logger:125 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-03 21:08:43 INFO  Logger:156 - Test null passed.
+2024-11-03 21:08:43 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-03 21:08:43 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-03 21:08:43 INFO  Logger:176 - Reports flushed successfully.
+2024-11-03 21:08:43 INFO  Logger:177 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-03 21:18:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 21:18:51 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 21:18:51 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 21:19:41 WARN  WebDriverManager:827 - Exception deleting driver cache at C:\Users\thrah\.cache\selenium
+org.apache.commons.io.IOExceptionList: 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver]
+	at org.apache.commons.io.IOExceptionList.checkEmpty(IOExceptionList.java:50) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:359) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:42) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:36) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOConsumer.forAll(IOConsumer.java:80) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:365) ~[commons-io-2.16.1.jar:2.16.1]
+	at io.github.bonigarcia.wdm.WebDriverManager.clearDriverCache(WebDriverManager.java:825) [webdrivermanager-5.9.2.jar:?]
+	at com.investaSolutions.base.SingletonWebDriver.initializeDriver(SingletonWebDriver.java:50) [classes/:?]
+	at com.investaSolutions.base.SingletonWebDriver.getDriver(SingletonWebDriver.java:29) [classes/:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+Caused by: org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:354) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.io.IOException: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1390) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.nio.file.AccessDeniedException: C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:275) ~[?:?]
+	at java.base/sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:110) ~[?:?]
+	at java.base/java.nio.file.Files.deleteIfExists(Files.java:1191) ~[?:?]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:159) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:37) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2811) ~[?:?]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2882) ~[?:?]
+	at org.apache.commons.io.file.PathUtils.visitFileTree(PathUtils.java:1730) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.deleteDirectory(PathUtils.java:518) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.delete(PathUtils.java:477) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1386) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+2024-11-03 21:19:54 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-03 21:19:54 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-03 21:22:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 21:22:36 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 21:22:36 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 21:22:42 WARN  WebDriverManager:827 - Exception deleting driver cache at C:\Users\thrah\.cache\selenium
+org.apache.commons.io.IOExceptionList: 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver]
+	at org.apache.commons.io.IOExceptionList.checkEmpty(IOExceptionList.java:50) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:359) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:42) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:36) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOConsumer.forAll(IOConsumer.java:80) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:365) ~[commons-io-2.16.1.jar:2.16.1]
+	at io.github.bonigarcia.wdm.WebDriverManager.clearDriverCache(WebDriverManager.java:825) [webdrivermanager-5.9.2.jar:?]
+	at com.investaSolutions.base.SingletonWebDriver.initializeDriver(SingletonWebDriver.java:50) [classes/:?]
+	at com.investaSolutions.base.SingletonWebDriver.getDriver(SingletonWebDriver.java:29) [classes/:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+Caused by: org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:354) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.io.IOException: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1390) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.nio.file.AccessDeniedException: C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:275) ~[?:?]
+	at java.base/sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:110) ~[?:?]
+	at java.base/java.nio.file.Files.deleteIfExists(Files.java:1191) ~[?:?]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:159) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:37) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2811) ~[?:?]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2882) ~[?:?]
+	at org.apache.commons.io.file.PathUtils.visitFileTree(PathUtils.java:1730) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.deleteDirectory(PathUtils.java:518) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.delete(PathUtils.java:477) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1386) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+2024-11-03 21:22:50 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-03 21:22:51 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-03 21:33:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 21:33:02 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 21:33:02 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 21:33:19 WARN  WebDriverManager:827 - Exception deleting driver cache at C:\Users\thrah\.cache\selenium
+org.apache.commons.io.IOExceptionList: 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver]
+	at org.apache.commons.io.IOExceptionList.checkEmpty(IOExceptionList.java:50) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:359) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:42) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:36) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOConsumer.forAll(IOConsumer.java:80) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:365) ~[commons-io-2.16.1.jar:2.16.1]
+	at io.github.bonigarcia.wdm.WebDriverManager.clearDriverCache(WebDriverManager.java:825) [webdrivermanager-5.9.2.jar:?]
+	at com.investaSolutions.base.SingletonWebDriver.initializeDriver(SingletonWebDriver.java:50) [classes/:?]
+	at com.investaSolutions.base.SingletonWebDriver.getDriver(SingletonWebDriver.java:29) [classes/:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+Caused by: org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:354) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.io.IOException: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1390) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.nio.file.AccessDeniedException: C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:275) ~[?:?]
+	at java.base/sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:110) ~[?:?]
+	at java.base/java.nio.file.Files.deleteIfExists(Files.java:1191) ~[?:?]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:159) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:37) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2811) ~[?:?]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2882) ~[?:?]
+	at org.apache.commons.io.file.PathUtils.visitFileTree(PathUtils.java:1730) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.deleteDirectory(PathUtils.java:518) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.delete(PathUtils.java:477) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1386) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+2024-11-03 21:33:29 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-03 21:33:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\AppData\Local\Temp\testng-eclipse-1599449979\testng-customsuite.xml
+
+2024-11-03 21:38:15 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-11-03 21:38:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@60b85ba1: 0 ms
+2024-11-03 21:38:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@39fc6b2c: 37 ms
+2024-11-03 21:38:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@53cdecf6: 70 ms
+2024-11-03 21:38:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4c7a078: 14 ms
+2024-11-03 21:38:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2c0f7678: 18 ms
+2024-11-03 21:38:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26f1249d: 12 ms
+2024-11-03 21:38:15 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@18151a14: 9 ms
+2024-11-03 21:38:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 21:38:35 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 21:38:35 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 21:38:51 WARN  WebDriverManager:827 - Exception deleting driver cache at C:\Users\thrah\.cache\selenium
+org.apache.commons.io.IOExceptionList: 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver]
+	at org.apache.commons.io.IOExceptionList.checkEmpty(IOExceptionList.java:50) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:359) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:42) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:36) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOConsumer.forAll(IOConsumer.java:80) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:365) ~[commons-io-2.16.1.jar:2.16.1]
+	at io.github.bonigarcia.wdm.WebDriverManager.clearDriverCache(WebDriverManager.java:825) [webdrivermanager-5.9.2.jar:?]
+	at com.investaSolutions.base.SingletonWebDriver.initializeDriver(SingletonWebDriver.java:49) [classes/:?]
+	at com.investaSolutions.base.SingletonWebDriver.getDriver(SingletonWebDriver.java:29) [classes/:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+Caused by: org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:354) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.io.IOException: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1390) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.nio.file.AccessDeniedException: C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:275) ~[?:?]
+	at java.base/sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:110) ~[?:?]
+	at java.base/java.nio.file.Files.deleteIfExists(Files.java:1191) ~[?:?]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:159) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:37) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2811) ~[?:?]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2882) ~[?:?]
+	at org.apache.commons.io.file.PathUtils.visitFileTree(PathUtils.java:1730) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.deleteDirectory(PathUtils.java:518) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.delete(PathUtils.java:477) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1386) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+2024-11-03 21:39:00 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-03 21:39:01 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-03 21:45:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 21:45:36 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 21:45:36 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 21:45:36 WARN  WebDriverManager:827 - Exception deleting driver cache at C:\Users\thrah\.cache\selenium
+org.apache.commons.io.IOExceptionList: 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver]
+	at org.apache.commons.io.IOExceptionList.checkEmpty(IOExceptionList.java:50) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:359) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:42) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:36) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOConsumer.forAll(IOConsumer.java:80) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:365) ~[commons-io-2.16.1.jar:2.16.1]
+	at io.github.bonigarcia.wdm.WebDriverManager.clearDriverCache(WebDriverManager.java:825) [webdrivermanager-5.9.2.jar:?]
+	at com.investaSolutions.base.SingletonWebDriver.initializeDriver(SingletonWebDriver.java:49) [classes/:?]
+	at com.investaSolutions.base.SingletonWebDriver.getDriver(SingletonWebDriver.java:29) [classes/:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+Caused by: org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:354) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.io.IOException: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1390) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.nio.file.AccessDeniedException: C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:275) ~[?:?]
+	at java.base/sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:110) ~[?:?]
+	at java.base/java.nio.file.Files.deleteIfExists(Files.java:1191) ~[?:?]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:159) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:37) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2811) ~[?:?]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2882) ~[?:?]
+	at org.apache.commons.io.file.PathUtils.visitFileTree(PathUtils.java:1730) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.deleteDirectory(PathUtils.java:518) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.delete(PathUtils.java:477) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1386) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+2024-11-03 21:45:37 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-03 21:45:37 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-03 21:45:39 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-03 21:45:39 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-03 21:45:39 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 21:45:39 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-03 21:45:39 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 21:45:39 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 21:45:39 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-03 21:46:18 ERROR Logger:-1 - Error initializing WebDriver: 
+java.lang.NullPointerException: null value in entry: url=null
+	at com.google.common.collect.CollectPreconditions.checkEntryNotNull(CollectPreconditions.java:33) ~[guava-32.1.2-jre.jar:?]
+	at com.google.common.collect.SingletonImmutableBiMap.<init>(SingletonImmutableBiMap.java:43) ~[guava-32.1.2-jre.jar:?]
+	at com.google.common.collect.ImmutableBiMap.of(ImmutableBiMap.java:83) ~[guava-32.1.2-jre.jar:?]
+	at com.google.common.collect.ImmutableMap.of(ImmutableMap.java:130) ~[guava-32.1.2-jre.jar:?]
+	at org.openqa.selenium.remote.DriverCommand.GET(DriverCommand.java:194) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:309) ~[selenium-remote-driver-4.15.0.jar:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(Unknown Source) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-03 21:46:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-03 21:46:35 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-03 21:46:35 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-03 21:46:35 WARN  WebDriverManager:827 - Exception deleting driver cache at C:\Users\thrah\.cache\selenium
+org.apache.commons.io.IOExceptionList: 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver]
+	at org.apache.commons.io.IOExceptionList.checkEmpty(IOExceptionList.java:50) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:359) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:42) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStreams.forAll(IOStreams.java:36) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOConsumer.forAll(IOConsumer.java:80) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:365) ~[commons-io-2.16.1.jar:2.16.1]
+	at io.github.bonigarcia.wdm.WebDriverManager.clearDriverCache(WebDriverManager.java:825) [webdrivermanager-5.9.2.jar:?]
+	at com.investaSolutions.base.SingletonWebDriver.initializeDriver(SingletonWebDriver.java:49) [classes/:?]
+	at com.investaSolutions.base.SingletonWebDriver.getDriver(SingletonWebDriver.java:29) [classes/:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+Caused by: org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:354) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.io.IOException: Cannot delete file: C:\Users\thrah\.cache\selenium\chromedriver
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1390) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+Caused by: java.nio.file.AccessDeniedException: C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:275) ~[?:?]
+	at java.base/sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:110) ~[?:?]
+	at java.base/java.nio.file.Files.deleteIfExists(Files.java:1191) ~[?:?]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:159) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.DeletingPathVisitor.visitFile(DeletingPathVisitor.java:37) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2811) ~[?:?]
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2882) ~[?:?]
+	at org.apache.commons.io.file.PathUtils.visitFileTree(PathUtils.java:1730) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.deleteDirectory(PathUtils.java:518) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.file.PathUtils.delete(PathUtils.java:477) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:1386) ~[commons-io-2.16.1.jar:2.16.1]
+	at org.apache.commons.io.function.IOStream.lambda$forAll$11(IOStream.java:347) ~[commons-io-2.16.1.jar:2.16.1]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.apache.commons.io.function.IOStream.forAll(IOStream.java:345) ~[commons-io-2.16.1.jar:2.16.1]
+	... 27 more
+2024-11-03 21:46:36 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-03 21:46:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-03 21:46:38 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-03 21:46:38 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-03 21:46:38 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 21:46:38 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-03 21:46:38 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 21:46:38 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-03 21:46:38 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-03 21:47:01 INFO  Logger:100 - Navigated to base URL: https://www.amazon.in
+2024-11-05 21:45:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\testng.xml
+
+2024-11-05 21:45:57 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-05 21:45:57 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-05 21:45:58 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-05 21:45:59 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.91/win64/chromedriver-win64.zip
+2024-11-05 21:46:00 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-05 21:46:00 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-05 21:46:03 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-05 21:46:03 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-05 21:46:03 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-05 21:46:03 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-05 21:46:03 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-05 21:46:03 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-05 21:46:03 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-05 21:46:06 INFO  Logger:100 - Navigated to base URL: https://cosmocode.io/automation-practice-webtable/
+2024-11-05 21:46:06 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-11-05 21:46:07 INFO  Logger:69 - Checkbox clicked for country: Australia
+2024-11-05 21:46:07 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-11-05 21:46:07 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-11-05 21:46:07 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-11-05 21:46:07 INFO  Logger:157 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-11-05 21:46:07 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-05 21:46:07 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-05 21:46:07 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.92
+2024-11-05 21:46:07 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-05 21:46:07 INFO  Logger:177 - Reports flushed successfully.
+2024-11-05 21:46:07 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-05 21:46:07 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 19:29:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-11 19:29:52 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 19:29:52 INFO  Logger:79 - Initializing WebDriver for browser: firefox
+2024-11-11 19:29:53 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 132)
+2024-11-11 19:29:53 INFO  WebDriverManager:1594 - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+2024-11-11 19:29:53 INFO  Downloader:128 - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win64.zip
+2024-11-11 19:29:55 INFO  Downloader:189 - Extracting driver from compressed file geckodriver-v0.35.0-win64.zip
+2024-11-11 19:29:55 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\thrah\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-11-11 19:29:59 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:29:59 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:29:59 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:29:59 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:29:59 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:29:59 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:29:59 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:30:01 INFO  Logger:100 - Navigated to base URL: https://www.amazon.in
+2024-11-11 19:30:03 ERROR Logger:135 - Test clickOnCheckBoxBasisOnCountrySearch has failed.
+2024-11-11 19:30:03 ERROR ExtentReportManager:112 - ExtentTest is null. Cannot log fail details.
+2024-11-11 19:30:03 ERROR ExtentReportManager:131 - ExtentTest is null. Cannot log exception details.
+2024-11-11 19:30:03 ERROR Logger:142 - Exception occurred during test execution: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "InterviewQuestionAndAnswer.AmazonPriceSelection.wait" is null
+	at InterviewQuestionAndAnswer.AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch(AmazonPriceSelection.java:39) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-11 19:30:04 ERROR ExtentReportManager:183 - Error while adding screenshot to Extent Report: Cannot invoke "com.aventstack.extentreports.ExtentTest.addScreenCaptureFromPath(String)" because the return value of "com.investaSolutions.utils.ExtentReportManager.getExtentTest()" is null
+2024-11-11 19:30:04 INFO  ExtentReportManager:64 - Set system info: Browser = firefox
+2024-11-11 19:30:05 INFO  ExtentReportManager:64 - Set system info: Browser Version = 132.0.1
+2024-11-11 19:30:06 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 19:30:06 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 19:30:06 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:30:08 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 19:32:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-11 19:32:15 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 19:32:15 INFO  Logger:79 - Initializing WebDriver for browser: ie
+2024-11-11 19:32:15 INFO  WebDriverManager:1594 - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/selenium to seek IEDriverServer
+2024-11-11 19:32:16 INFO  Downloader:128 - Downloading https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.14.0/IEDriverServer_x64_4.14.0.zip
+2024-11-11 19:32:18 INFO  Downloader:189 - Extracting driver from compressed file iedriverserver_x64_4.14.0.zip
+2024-11-11 19:32:18 INFO  WebDriverManager:1282 - Exporting webdriver.ie.driver as C:\Users\thrah\.cache\selenium\IEDriverServer\win64\4.14.0\IEDriverServer.exe
+2024-11-11 19:32:19 ERROR Logger:88 - Error initializing WebDriver: 
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'RAHUL', ip: '192.168.1.13'
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptSslCerts: true, browserName: internet explorer, se:ieOptions: {enablePersistentHover: true, ignoreZoomSetting: true}}]}]
+Capabilities {}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:625) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:241) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.ie.InternetExplorerDriver.run(InternetExplorerDriver.java:149) ~[selenium-ie-driver-4.15.0.jar:?]
+	at org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:135) ~[selenium-ie-driver-4.15.0.jar:?]
+	at org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:95) ~[selenium-ie-driver-4.15.0.jar:?]
+	at com.investaSolutions.base.SingletonWebDriver.initializeDriver(SingletonWebDriver.java:88) ~[classes/:?]
+	at com.investaSolutions.base.SingletonWebDriver.getDriver(SingletonWebDriver.java:32) ~[classes/:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:81) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+Caused by: java.lang.IllegalArgumentException: Illegal key values seen in w3c capabilities: [acceptSslCerts]
+	at org.openqa.selenium.remote.NewSessionPayload.lambda$validate$4(NewSessionPayload.java:184) ~[selenium-remote-driver-4.15.0.jar:?]
+	at java.base/java.util.stream.ReferencePipeline$15$1.accept(ReferencePipeline.java:540) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$15$1.accept(ReferencePipeline.java:541) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$15$1.accept(ReferencePipeline.java:541) ~[?:?]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at org.openqa.selenium.remote.NewSessionPayload.validate(NewSessionPayload.java:188) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.NewSessionPayload.<init>(NewSessionPayload.java:91) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.NewSessionPayload.create(NewSessionPayload.java:127) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.NewSessionPayload.create(NewSessionPayload.java:111) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:67) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607) ~[selenium-remote-driver-4.15.0.jar:?]
+	... 26 more
+2024-11-11 19:32:19 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:32:19 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:32:19 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:32:19 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:32:19 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:32:19 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:32:19 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:32:19 INFO  Logger:157 - Test null passed.
+2024-11-11 19:32:19 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-11 19:32:19 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 19:32:19 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 19:32:19 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:33:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-11 19:33:50 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 19:33:50 INFO  Logger:79 - Initializing WebDriver for browser: edge
+2024-11-11 19:33:51 INFO  WebDriverManager:1220 - Using msedgedriver 130.0.2849.80 (resolved driver for Edge 130)
+2024-11-11 19:33:51 INFO  WebDriverManager:1594 - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2024-11-11 19:33:52 INFO  Downloader:128 - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/130.0.2849.80/edgedriver_win64.zip
+2024-11-11 19:38:11 INFO  Downloader:189 - Extracting driver from compressed file edgedriver_win64.zip
+2024-11-11 19:38:12 INFO  WebDriverManager:1282 - Exporting webdriver.edge.driver as C:\Users\thrah\.cache\selenium\msedgedriver\win64\130.0.2849.80\msedgedriver.exe
+2024-11-11 19:38:14 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:38:14 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:38:14 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:38:14 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:38:14 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:38:14 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:38:14 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:38:16 INFO  Logger:100 - Navigated to base URL: https://www.amazon.in
+2024-11-11 19:38:19 ERROR Logger:135 - Test clickOnCheckBoxBasisOnCountrySearch has failed.
+2024-11-11 19:38:19 ERROR ExtentReportManager:112 - ExtentTest is null. Cannot log fail details.
+2024-11-11 19:38:19 ERROR ExtentReportManager:131 - ExtentTest is null. Cannot log exception details.
+2024-11-11 19:38:19 ERROR Logger:142 - Exception occurred during test execution: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "InterviewQuestionAndAnswer.AmazonPriceSelection.wait" is null
+	at InterviewQuestionAndAnswer.AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch(AmazonPriceSelection.java:39) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-11 19:38:20 ERROR ExtentReportManager:183 - Error while adding screenshot to Extent Report: Cannot invoke "com.aventstack.extentreports.ExtentTest.addScreenCaptureFromPath(String)" because the return value of "com.investaSolutions.utils.ExtentReportManager.getExtentTest()" is null
+2024-11-11 19:38:20 INFO  ExtentReportManager:64 - Set system info: Browser = MicrosoftEdge
+2024-11-11 19:38:20 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.2849.80
+2024-11-11 19:38:20 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 19:38:20 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 19:38:20 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:38:21 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 19:50:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\InvestaSolutionsSuiteParallel.xml
+
+2024-11-11 19:50:57 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 19:50:57 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 19:50:59 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.116 (resolved driver for Chrome 130)
+2024-11-11 19:50:59 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip
+2024-11-11 19:51:01 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-11 19:51:01 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.116\chromedriver.exe
+2024-11-11 19:51:03 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:51:03 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:51:03 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:51:03 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:51:03 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:51:03 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:51:03 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:51:06 INFO  Logger:100 - Navigated to base URL: https://cosmocode.io/automation-practice-webtable/
+2024-11-11 19:51:06 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-11-11 19:51:08 INFO  Logger:69 - Checkbox clicked for country: Australia
+2024-11-11 19:51:08 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-11-11 19:51:08 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-11-11 19:51:08 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-11-11 19:51:08 INFO  Logger:157 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-11-11 19:51:08 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-11 19:51:08 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 19:51:08 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 19:51:08 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 19:51:08 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 19:51:08 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:51:08 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 19:51:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\InvestaSolutionsSuiteParallel.xml
+
+2024-11-11 19:51:35 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 19:51:35 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 19:51:36 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.116 (resolved driver for Chrome 130)
+2024-11-11 19:51:36 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip
+2024-11-11 19:51:38 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-11 19:51:38 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.116\chromedriver.exe
+2024-11-11 19:51:40 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:51:40 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:51:40 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:51:40 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:51:40 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:51:40 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:51:40 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:51:43 INFO  Logger:100 - Navigated to base URL: https://cosmocode.io/automation-practice-webtable/
+2024-11-11 19:51:43 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-11-11 19:51:44 INFO  Logger:69 - Checkbox clicked for country: Australia
+2024-11-11 19:51:45 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-11-11 19:51:45 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-11-11 19:51:45 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-11-11 19:51:45 INFO  Logger:157 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-11-11 19:51:45 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-11 19:51:45 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 19:51:45 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 19:51:45 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 19:51:45 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 19:51:45 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:51:45 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 19:54:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\InvestaSolutionsSuiteParallel.xml
+
+2024-11-11 19:54:12 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 19:54:12 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 19:54:14 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.116 (resolved driver for Chrome 130)
+2024-11-11 19:54:14 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip
+2024-11-11 19:54:15 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-11 19:54:15 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.116\chromedriver.exe
+2024-11-11 19:54:17 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:54:17 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:54:17 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:54:17 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:54:17 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:54:17 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:54:17 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:54:17 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:54:17 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:54:17 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:54:17 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:54:17 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:54:17 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:54:17 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:54:21 INFO  Logger:100 - Navigated to base URL: https://cosmocode.io/automation-practice-webtable/
+2024-11-11 19:54:21 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-11-11 19:54:22 INFO  Logger:100 - Navigated to base URL: https://cosmocode.io/automation-practice-webtable/
+2024-11-11 19:54:22 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-11-11 19:54:23 INFO  Logger:69 - Checkbox clicked for country: Australia
+2024-11-11 19:54:23 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-11-11 19:54:23 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-11-11 19:54:23 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-11-11 19:54:23 INFO  Logger:157 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-11-11 19:54:23 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-11 19:54:23 INFO  Logger:69 - Checkbox clicked for country: Australia
+2024-11-11 19:54:23 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-11-11 19:54:23 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-11-11 19:54:23 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-11-11 19:54:23 INFO  Logger:157 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-11-11 19:54:23 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-11 19:54:23 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 19:54:23 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 19:54:24 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 19:54:24 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 19:54:24 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:54:24 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 19:55:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\InvestaSolutionsSuiteParallel.xml
+
+2024-11-11 19:55:12 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 19:55:12 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 19:55:14 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.116 (resolved driver for Chrome 130)
+2024-11-11 19:55:14 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip
+2024-11-11 19:55:15 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-11 19:55:15 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.116\chromedriver.exe
+2024-11-11 19:55:17 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:55:17 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:55:17 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:55:17 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:55:17 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:55:17 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:55:17 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:55:17 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:55:17 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:55:17 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:55:17 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:55:17 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:55:17 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:55:17 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:55:20 INFO  Logger:100 - Navigated to base URL: https://cosmocode.io/automation-practice-webtable/
+2024-11-11 19:55:20 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-11-11 19:55:22 INFO  Logger:100 - Navigated to base URL: https://cosmocode.io/automation-practice-webtable/
+2024-11-11 19:55:22 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-11-11 19:55:24 INFO  Logger:69 - Checkbox clicked for country: Australia
+2024-11-11 19:55:24 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-11-11 19:55:24 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-11-11 19:55:24 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-11-11 19:55:24 INFO  Logger:157 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-11-11 19:55:24 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-11 19:55:24 INFO  Logger:69 - Checkbox clicked for country: Australia
+2024-11-11 19:55:24 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-11-11 19:55:24 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-11-11 19:55:24 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-11-11 19:55:24 INFO  Logger:157 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-11-11 19:55:24 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-11 19:55:24 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 19:55:24 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 19:55:24 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 19:55:24 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 19:55:24 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:55:24 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 19:56:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\AmazonSuiteParallel.xml
+
+2024-11-11 19:56:28 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 19:56:28 INFO  Logger:79 - Initializing WebDriver for browser: edge
+2024-11-11 19:56:29 INFO  WebDriverManager:1220 - Using msedgedriver 130.0.2849.80 (resolved driver for Edge 130)
+2024-11-11 19:56:29 INFO  WebDriverManager:1594 - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2024-11-11 19:56:30 INFO  Downloader:128 - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/130.0.2849.80/edgedriver_win64.zip
+2024-11-11 19:56:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\AmazonSuiteParallel.xml
+
+2024-11-11 19:56:51 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 19:56:51 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 19:56:52 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.116 (resolved driver for Chrome 130)
+2024-11-11 19:56:52 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip
+2024-11-11 19:56:54 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-11 19:56:54 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.116\chromedriver.exe
+2024-11-11 19:56:56 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:56:56 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:56:56 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:56:56 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:56:56 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:56:56 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:56:56 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:56:56 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 19:56:56 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 19:56:56 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:56:56 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 19:56:56 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:56:56 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 19:56:56 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:56:58 INFO  Logger:100 - Navigated to base URL: https://www.amazon.in
+2024-11-11 19:56:59 INFO  Logger:100 - Navigated to base URL: https://www.amazon.in
+2024-11-11 19:57:08 ERROR Logger:135 - Test clickOnCheckBoxBasisOnCountrySearch has failed.
+2024-11-11 19:57:08 ERROR ExtentReportManager:112 - ExtentTest is null. Cannot log fail details.
+2024-11-11 19:57:08 ERROR ExtentReportManager:131 - ExtentTest is null. Cannot log exception details.
+2024-11-11 19:57:08 ERROR Logger:142 - Exception occurred during test execution: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "InterviewQuestionAndAnswer.AmazonPriceSelection.wait" is null
+	at InterviewQuestionAndAnswer.AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch(AmazonPriceSelection.java:39) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58) ~[testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+2024-11-11 19:57:08 ERROR Logger:135 - Test clickOnCheckBoxBasisOnCountrySearch has failed.
+2024-11-11 19:57:08 ERROR ExtentReportManager:112 - ExtentTest is null. Cannot log fail details.
+2024-11-11 19:57:08 ERROR ExtentReportManager:131 - ExtentTest is null. Cannot log exception details.
+2024-11-11 19:57:08 ERROR Logger:142 - Exception occurred during test execution: 
+org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.117)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4ec3012c5344fb210eee78f879a1e906, clickElement {id=f.5A3A546E8D3FB4650862B0FE61D392BC.d.70BB22E42C3901CD59B2FBBC0F4A7869.e.229}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\thrah\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50813}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50813/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4ec3012c5344fb210eee78f879a1e906)] -> id: nav-search-submit-button]
+Session ID: 4ec3012c5344fb210eee78f879a1e906
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77) ~[selenium-remote-driver-4.15.0.jar:?]
+	at InterviewQuestionAndAnswer.AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch(AmazonPriceSelection.java:36) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58) ~[testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+2024-11-11 19:57:08 ERROR ExtentReportManager:183 - Error while adding screenshot to Extent Report: Cannot invoke "com.aventstack.extentreports.ExtentTest.addScreenCaptureFromPath(String)" because the return value of "com.investaSolutions.utils.ExtentReportManager.getExtentTest()" is null
+2024-11-11 19:57:08 ERROR ExtentReportManager:183 - Error while adding screenshot to Extent Report: Cannot invoke "com.aventstack.extentreports.ExtentTest.addScreenCaptureFromPath(String)" because the return value of "com.investaSolutions.utils.ExtentReportManager.getExtentTest()" is null
+2024-11-11 19:57:08 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 19:57:08 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 19:57:09 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 19:57:09 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 19:57:09 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 19:57:09 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 20:01:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-11 20:01:23 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 20:01:23 INFO  Logger:79 - Initializing WebDriver for browser: edge
+2024-11-11 20:01:24 INFO  WebDriverManager:1220 - Using msedgedriver 130.0.2849.80 (resolved driver for Edge 130)
+2024-11-11 20:01:24 INFO  WebDriverManager:1594 - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2024-11-11 20:01:25 INFO  Downloader:128 - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/130.0.2849.80/edgedriver_win64.zip
+2024-11-11 20:02:05 INFO  Downloader:189 - Extracting driver from compressed file edgedriver_win64.zip
+2024-11-11 20:02:05 INFO  WebDriverManager:1282 - Exporting webdriver.edge.driver as C:\Users\thrah\.cache\selenium\msedgedriver\win64\130.0.2849.80\msedgedriver.exe
+2024-11-11 20:02:07 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 20:02:07 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 20:02:07 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:02:07 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 20:02:07 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:02:07 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:02:07 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:02:09 INFO  Logger:100 - Navigated to base URL: https://www.amazon.in
+2024-11-11 20:02:12 ERROR Logger:135 - Test clickOnCheckBoxBasisOnCountrySearch has failed.
+2024-11-11 20:02:12 ERROR ExtentReportManager:112 - ExtentTest is null. Cannot log fail details.
+2024-11-11 20:02:12 ERROR ExtentReportManager:131 - ExtentTest is null. Cannot log exception details.
+2024-11-11 20:02:12 ERROR Logger:142 - Exception occurred during test execution: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "InterviewQuestionAndAnswer.AmazonPriceSelection.wait" is null
+	at InterviewQuestionAndAnswer.AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch(AmazonPriceSelection.java:39) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1251) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-11 20:02:12 ERROR ExtentReportManager:183 - Error while adding screenshot to Extent Report: Cannot invoke "com.aventstack.extentreports.ExtentTest.addScreenCaptureFromPath(String)" because the return value of "com.investaSolutions.utils.ExtentReportManager.getExtentTest()" is null
+2024-11-11 20:02:12 INFO  ExtentReportManager:64 - Set system info: Browser = MicrosoftEdge
+2024-11-11 20:02:12 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.2849.80
+2024-11-11 20:02:13 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 20:02:13 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 20:02:13 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:02:13 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 20:02:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\testng.xml
+
+2024-11-11 20:02:20 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 20:02:20 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.116 (resolved driver for Chrome 130)
+2024-11-11 20:02:20 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip
+2024-11-11 20:02:22 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-11 20:02:22 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.116\chromedriver.exe
+2024-11-11 20:02:24 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 20:02:24 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 20:02:24 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:02:24 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 20:02:24 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:02:24 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:02:24 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:02:28 INFO  Logger:100 - Navigated to base URL: https://cosmocode.io/automation-practice-webtable/
+2024-11-11 20:02:28 INFO  ExtentReportManager:78 - Test [Test Method 1] has been started
+2024-11-11 20:02:29 INFO  Logger:69 - Checkbox clicked for country: Australia
+2024-11-11 20:02:29 INFO  ExtentReportManager:138 - INFO: com.investaSolutions.utils.ExtentReportManager:INFO in 22d8cfe0
+2024-11-11 20:02:29 INFO  ExtentReportManager:119 - SUCCESS: Test Method 1: Test Case Passed
+2024-11-11 20:02:29 INFO  ExtentReportManager:83 - Test [Test Method 1] has been completed
+2024-11-11 20:02:29 INFO  Logger:157 - Test clickOnCheckBoxBasisOnCountrySearch passed.
+2024-11-11 20:02:29 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-11 20:02:29 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 20:02:29 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 20:02:29 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 20:02:29 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 20:02:29 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:02:29 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 20:02:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\MasterTestSuite.xml
+
+2024-11-11 20:03:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\Amazon_testng.xml
+
+2024-11-11 20:03:40 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 20:03:40 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 20:03:41 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.116 (resolved driver for Chrome 130)
+2024-11-11 20:03:41 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip
+2024-11-11 20:03:43 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-11 20:03:43 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.116\chromedriver.exe
+2024-11-11 20:03:45 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 20:03:45 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 20:03:45 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:03:45 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 20:03:45 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:03:45 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:03:45 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:03:46 INFO  Logger:100 - Navigated to base URL: https://www.amazon.in
+2024-11-11 20:03:50 ERROR Logger:135 - Test clickOnCheckBoxBasisOnCountrySearch has failed.
+2024-11-11 20:03:50 ERROR ExtentReportManager:112 - ExtentTest is null. Cannot log fail details.
+2024-11-11 20:03:50 ERROR ExtentReportManager:131 - ExtentTest is null. Cannot log exception details.
+2024-11-11 20:03:50 ERROR Logger:142 - Exception occurred during test execution: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "InterviewQuestionAndAnswer.AmazonPriceSelection.wait" is null
+	at InterviewQuestionAndAnswer.AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch(AmazonPriceSelection.java:39) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1251) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-11 20:03:50 ERROR ExtentReportManager:183 - Error while adding screenshot to Extent Report: Cannot invoke "com.aventstack.extentreports.ExtentTest.addScreenCaptureFromPath(String)" because the return value of "com.investaSolutions.utils.ExtentReportManager.getExtentTest()" is null
+2024-11-11 20:03:50 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 20:03:50 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 20:03:50 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 20:03:50 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 20:03:50 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:03:51 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 20:03:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\testng.xml
+
+2024-11-11 20:03:57 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 20:03:57 ERROR Logger:88 - Error initializing WebDriver: 
+org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\thrah\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51090}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51090/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:152) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:680) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:684) ~[selenium-remote-driver-4.15.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:1123) ~[selenium-remote-driver-4.15.0.jar:?]
+	at com.investaSolutions.base.TestBase.beforeSuite(TestBase.java:83) [classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:376) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1251) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-11 20:03:57 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 20:03:57 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 20:03:57 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:03:57 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 20:03:57 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:03:57 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:03:57 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:03:57 INFO  Logger:157 - Test null passed.
+2024-11-11 20:03:57 ERROR ExtentReportManager:121 - ExtentTest is null. Cannot log success details.
+2024-11-11 20:03:57 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 20:03:57 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 20:03:57 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 20:03:57 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 20:03:57 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:03:57 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 20:04:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\MasterTestSuite.xml
+
+2024-11-11 20:06:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\AmazonSuiteParallel.xml
+
+2024-11-11 20:06:24 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 20:06:24 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 20:06:25 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.116 (resolved driver for Chrome 130)
+2024-11-11 20:06:25 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip
+2024-11-11 20:06:27 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-11 20:06:27 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.116\chromedriver.exe
+2024-11-11 20:06:29 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 20:06:29 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 20:06:29 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:06:29 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 20:06:29 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:06:29 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:06:29 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:06:30 INFO  Logger:100 - Navigated to base URL: https://www.amazon.in
+2024-11-11 20:06:34 ERROR Logger:135 - Test clickOnCheckBoxBasisOnCountrySearch has failed.
+2024-11-11 20:06:34 ERROR ExtentReportManager:112 - ExtentTest is null. Cannot log fail details.
+2024-11-11 20:06:34 ERROR ExtentReportManager:131 - ExtentTest is null. Cannot log exception details.
+2024-11-11 20:06:34 ERROR Logger:142 - Exception occurred during test execution: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "InterviewQuestionAndAnswer.AmazonPriceSelection.wait" is null
+	at InterviewQuestionAndAnswer.AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch(AmazonPriceSelection.java:39) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) [testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) [testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+2024-11-11 20:06:34 ERROR ExtentReportManager:183 - Error while adding screenshot to Extent Report: Cannot invoke "com.aventstack.extentreports.ExtentTest.addScreenCaptureFromPath(String)" because the return value of "com.investaSolutions.utils.ExtentReportManager.getExtentTest()" is null
+2024-11-11 20:06:34 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 20:06:34 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 20:06:34 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 20:06:34 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 20:06:34 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:06:34 INFO  Logger:193 - WebDriver quit successfully.
+2024-11-11 20:43:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework\TestngXMLFiles\Amazon_testng.xml
+
+2024-11-11 20:43:45 INFO  ExtentReportManager:40 - Creating Extent Report with name: Test Report
+2024-11-11 20:43:45 INFO  Logger:79 - Initializing WebDriver for browser: chrome
+2024-11-11 20:43:46 INFO  WebDriverManager:1220 - Using chromedriver 130.0.6723.116 (resolved driver for Chrome 130)
+2024-11-11 20:43:46 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/win64/chromedriver-win64.zip
+2024-11-11 20:43:48 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2024-11-11 20:43:48 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\thrah\.cache\selenium\chromedriver\win64\130.0.6723.116\chromedriver.exe
+2024-11-11 20:43:50 INFO  Logger:120 - Loaded HOST_NAME: smtp.gmail.com
+2024-11-11 20:43:50 INFO  Logger:121 - Loaded PORT_ID: 587
+2024-11-11 20:43:50 INFO  Logger:122 - Loaded SENDER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:43:50 INFO  Logger:123 - Loaded SENDER_EMAIL_PASSWORD: cysoeihdbloabclr
+2024-11-11 20:43:50 INFO  Logger:124 - Loaded RECEIVER_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:43:50 INFO  Logger:125 - Loaded CC_EMAIL_ID: yescust.onbord01@gmail.com
+2024-11-11 20:43:50 INFO  Logger:126 - Loaded HTMLREPORT: C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:43:52 INFO  Logger:100 - Navigated to base URL: https://www.amazon.in
+2024-11-11 20:43:56 ERROR Logger:135 - Test clickOnCheckBoxBasisOnCountrySearch has failed.
+2024-11-11 20:43:56 ERROR ExtentReportManager:112 - ExtentTest is null. Cannot log fail details.
+2024-11-11 20:43:56 ERROR ExtentReportManager:131 - ExtentTest is null. Cannot log exception details.
+2024-11-11 20:43:56 ERROR Logger:142 - Exception occurred during test execution: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "InterviewQuestionAndAnswer.AmazonPriceSelection.wait" is null
+	at InterviewQuestionAndAnswer.AmazonPriceSelection.clickOnCheckBoxBasisOnCountrySearch(AmazonPriceSelection.java:39) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.1.jar:7.7.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+2024-11-11 20:43:56 ERROR Logger:150 - Failed to capture screenshot for clickOnCheckBoxBasisOnCountrySearch: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a39e92e52f93d03f3f364e450c3d88e2, screenshot {}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\thrah\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51575}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51575/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a39e92e52f93d03f3f364e450c3d88e2
+2024-11-11 20:43:56 INFO  ExtentReportManager:64 - Set system info: Browser = chrome
+2024-11-11 20:43:56 INFO  ExtentReportManager:64 - Set system info: Browser Version = 130.0.6723.117
+2024-11-11 20:43:56 INFO  ExtentReportManager:174 - Extent reports flushed.
+2024-11-11 20:43:56 INFO  Logger:177 - Reports flushed successfully.
+2024-11-11 20:43:56 INFO  Logger:178 - Reports generated at this place : C:\Users\thrah\NewWorkSpace\SeleniumNewVersionFramework/Execution Reports/HTML Report/INVESTA_QA_AUTOMATION_REPORT.html
+2024-11-11 20:43:56 INFO  Logger:193 - WebDriver quit successfully.

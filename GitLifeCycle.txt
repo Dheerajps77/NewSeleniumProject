@@ -1,0 +1,21 @@
+# Step 1: Checkout master and update it
+git checkout master
+git pull origin master
+
+# Step 2: Create a new branch from the master
+git checkout -b sprint-branch
+
+# Step 3: Make changes, stage, commit, and push to the new branch
+git add .
+git commit -m "Add feature X or fix Y in sprint-branch"
+git push origin sprint-branch
+
+# Step 4: Checkout master, update it, and merge the sprint branch
+git checkout master
+git pull origin master
+git merge sprint-branch
+git push origin master
+
+# Step 5: (Optional) Delete the sprint branch
+git branch -d sprint-branch
+git push origin --delete sprint-branch

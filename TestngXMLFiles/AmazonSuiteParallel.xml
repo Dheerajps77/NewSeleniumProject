@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AmazonSuite" parallel="classes" thread-count="2">
+    <parameter name="env" value="staging" />  <!-- Set your desired environment -->
+    <parameter name="browser" value="chrome" /> <!-- Set your desired browser -->
+    <test name="AmazonTest1">
+        <classes>
+            <class name="InterviewQuestionAndAnswer.AmazonPriceSelection" />
+        </classes>
+    </test>
+</suite>

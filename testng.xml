@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="InvestaSolutions">
+	<parameter name="browser" value="chrome" />
+	<!-- <parameter name="env" value="${env}" /> 
+	<parameter name="browser" value="${browser}"/> -->
+	<test name="WebTableTest">
+		<classes>
+			<class name="InterviewQuestionAndAnswer.WebTableTests" />
+		</classes>
+	</test>
+</suite>
