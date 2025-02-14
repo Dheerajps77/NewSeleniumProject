@@ -23,6 +23,45 @@ public class ExcelUtils {
 		}
 	}
 
+// Generic Function to Read Excel Data as List of Maps
+public static List<Map<String, String>> readExcelDataAsList(String filePath, String sheetName) throws IOException {
+    List<Map<String, String>> dataList = new ArrayList<>();
+    DataFormatter formatter = new DataFormatter();
+
+    try (Workbook workbook = WorkbookFactory.create(new File(filePath))) {
+        Sheet sheet = workbook.getSheet(sheetName);
+        if (sheet == null) {
+            throw new IllegalArgumentException("Sheet " + sheetName + " does not exist in " + filePath);
+        }
+
+        Row headerRow = sheet.getRow(0);
+        if (headerRow == null) {
+            throw new IllegalArgumentException("Header row is missing in the sheet.");
+        }
+
+        // Get header names dynamically
+        List<String> headers = new ArrayList<>();
+        for (Cell cell : headerRow) {
+            headers.add(formatter.formatCellValue(cell));
+        }
+
+        // Read data from remaining rows
+        for (int i = 1; i <= sheet.getLastRowNum(); i++) {
+            Row row = sheet.getRow(i);
+            if (row == null) continue;
+
+            Map<String, String> rowData = new LinkedHashMap<>();
+            for (int j = 0; j < headers.size(); j++) {
+                String cellValue = formatter.formatCellValue(row.getCell(j));
+                rowData.put(headers.get(j), cellValue);
+            }
+            dataList.add(rowData);
+        }
+    }
+    return dataList;
+}
+
+
 	// Get test data as Map<String, Map<String, String>>
 	public static Map<String, Map<String, String>> getTestDataAsMap(String filePath, String sheetName)
 			throws IOException {
