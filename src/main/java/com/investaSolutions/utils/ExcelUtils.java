@@ -65,6 +65,20 @@ public static List<Map<String, String>> readExcelDataAsList(String filePath, Str
 	// Get test data as Map<String, Map<String, String>>
 	public static Map<String, Map<String, String>> getTestDataAsMap(String filePath, String sheetName)
 			throws IOException {
+
+		/*
+
+			TestCaseID	Field1	Value1	Field2		Value2		Field3	Value3
+			TC_001		Name	John	Age		30		City	NY
+			TC_002		Name	Alice	Age		25		City	LA
+			TC_003		Name	Bob	Age		35		City	SF
+   
+				{
+    				"TC_001": { "Name"="John", "Age"="30", "City"="NY" },
+    				"TC_002": { "Name"="Alice", "Age"="25", "City"="LA" },
+    				"TC_003": { "Name"="Bob", "Age"="35", "City"="SF" }
+				}		 
+		 */
 		Map<String, Map<String, String>> testData = new LinkedHashMap<>();
 		DataFormatter dataFormatter = new DataFormatter();
 
