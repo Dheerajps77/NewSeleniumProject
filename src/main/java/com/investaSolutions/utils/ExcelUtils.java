@@ -117,6 +117,15 @@ public static List<Map<String, String>> readExcelDataAsList(String filePath, Str
     }
 
 	public static Object[][] getExcelData(String filePath, String sheetName) throws IOException {
+		
+		
+		/*
+		 	Name	Age	City
+			John	30	NY
+			Alice	25	LA
+			Bob	35	SF
+		 */
+		
 		try (FileInputStream fileInputStream = new FileInputStream(filePath);
 				Workbook workbook = new XSSFWorkbook(fileInputStream)) {
 
