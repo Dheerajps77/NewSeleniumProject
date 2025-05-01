@@ -21,6 +21,7 @@ import org.testng.annotations.Parameters;
 import com.investaSolutions.utils.ExcelUtils;
 import com.investaSolutions.utils.ExtentReportManager;
 import com.investaSolutions.utils.GenericUtils;
+import com.investaSolutions.utils.PageManager;
 import com.investaSolutions.utils.PropertiesManager;
 import com.investaSolutions.utils.SeleniumUtils;
 import com.investaSolutions.utils.SendEmailUtils;
@@ -35,7 +36,7 @@ public class TestBase {
 	// Declare PropertiesManager at the global level
 	public static PropertiesManager properties;
 	public static int WAIT_SECONDS;
-	
+	public static PageManager pageManager;
 
 	public static ExtentReportManager extentReportManager = new ExtentReportManager();
 	GenericUtils genericUtil = new GenericUtils();
@@ -62,6 +63,7 @@ public class TestBase {
 		environment=properties.getEnv("env");
 		WAIT_SECONDS = Integer.valueOf(properties.getConfig("GLOBAL_WAIT"));
 		System.out.println(WAIT_SECONDS);
+		pageManager= new PageManager(driver);
 	}
 
 	@BeforeSuite(alwaysRun = true)

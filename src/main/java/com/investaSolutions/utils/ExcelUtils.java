@@ -22,7 +22,24 @@ public class ExcelUtils {
 			}
 		}
 	}
+	
+	/*
+	TestCaseID	Field1	Value1	Field2	Value2	Field3	Value3
+	TC_001	Username	John	Password	1234	Role	Admin
+	TC_002	Username	Alice	Password	abcd	Role	User
 
+	LinkedHashMap - Maintains insertion order
+	
+	Use LinkedHashMap when:
+		You want insertion order preserved
+		You're dealing with structured/tabular data like Excel
+		You need consistent iteration order for comparison or output
+
+	Use HashMap when:
+		You don't care about order
+		You prioritize performance for large maps
+
+	*/
 	// Get test data as Map<String, Map<String, String>>
 	public static Map<String, Map<String, String>> getTestDataAsMap(String filePath, String sheetName)
 			throws IOException {

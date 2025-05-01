@@ -103,6 +103,7 @@ public class ActionsUtil {
         }
     }
 
+	/* Dhee-raj@123 */
     // Click and hold an element
     public void clickAndHold(WebElement element) {
         try {

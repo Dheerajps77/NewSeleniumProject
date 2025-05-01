@@ -10,6 +10,8 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.ie.InternetExplorerOptions;
 
+import com.investaSolutions.utils.PageManager;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class SingletonWebDriver {
@@ -20,6 +22,7 @@ public class SingletonWebDriver {
 	private static FirefoxOptions firefoxOptions;
 	private static EdgeOptions edgeOptions;
 	private static InternetExplorerOptions internetExplorerOptions;
+	public static PageManager manager;
 
 	// Private constructor to prevent instantiation
 	private SingletonWebDriver() {
@@ -30,6 +33,7 @@ public class SingletonWebDriver {
 		if (driver == null || !browserName.equalsIgnoreCase(browser)) {
 			browser = browserName;
             initializeDriver(browserName);
+            //manager = new PageManager(driver);
 		}
 		return driver;
 	}
