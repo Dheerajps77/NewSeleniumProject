@@ -3,16 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="InterviewQuestionAndAnswer.AmazonPriceSelection">
+      <class name="InterviewQuestionAnswer.ExecutionSequencesOfMethods">
         <methods>
-          <include name="beforeSuite"/>
-          <include name="clickOnCheckBoxBasisOnCountrySearch"/>
-          <include name="afterMethod"/>
-          <include name="setUp"/>
-          <include name="initProperties"/>
-          <include name="generateReport"/>
+          <include name="B1"/>
+          <include name="A1"/>
         </methods>
-      </class> <!-- InterviewQuestionAndAnswer.AmazonPriceSelection -->
+      </class> <!-- InterviewQuestionAnswer.ExecutionSequencesOfMethods -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
